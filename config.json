@@ -1,0 +1,6 @@
+{
+    "MODEL_OUTPUT":"/path/to/folder/where/models/are/being/output/",
+    "CHALLENGE_DATA": "/path/to/test/data/folder/",
+    "GOLDSTANDARD": "/path/to/benchmark/goldstandard/patient/goldstandard.csv",
+    "NUM_BOOTSTRAPS": 10000
+}
